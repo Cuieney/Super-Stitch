@@ -31,38 +31,19 @@
 
 ### perview
 
-
-
-![tab_list.png](https://upload-images.jianshu.io/upload_images/3415839-8fefa109bd60e4cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![main.png](https://upload-images.jianshu.io/upload_images/3415839-9a485887887ac560.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![feedback.png](https://upload-images.jianshu.io/upload_images/3415839-16ff31e590d4924e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![play.png](https://upload-images.jianshu.io/upload_images/3415839-6674552524a062e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-![process.png](https://upload-images.jianshu.io/upload_images/3415839-92dd3d66a017e678.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-![process_complete.png](https://upload-images.jianshu.io/upload_images/3415839-c494dc02d9861adf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-![play_detail.png](https://upload-images.jianshu.io/upload_images/3415839-36fdc4683a2ed09b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
-![share.png](https://upload-images.jianshu.io/upload_images/3415839-e532c4f214956801.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
-
-
 ![threemegerone.gif](https://upload-images.jianshu.io/upload_images/3415839-c16b1cac6eecb864.gif?imageMogr2/auto-orient/strip)
 
-![onebyone.gif](https://upload-images.jianshu.io/upload_images/3415839-64f8812b88a3b66b.gif?imageMogr2/auto-orient/strip)
+
+![first.png](https://upload-images.jianshu.io/upload_images/3415839-c9e9a6bdd7598dec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![second.png](https://upload-images.jianshu.io/upload_images/3415839-03800635c025f755.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![third.png](https://upload-images.jianshu.io/upload_images/3415839-13067988ce0943b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![four.png](https://upload-images.jianshu.io/upload_images/3415839-fa1c90a64c1fe8cc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 
