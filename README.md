@@ -7,10 +7,11 @@
 一款视频超级拼接软件，只要你敢拼我就敢接，打造一款自由拼接视频画面的App 工具，项目目前功能还并未完全完善，需要大家的一致意见来进行完善，所以呢项目博主还在自己努力开发阶段，等项目完善了一定给大家带来源码。大家可以根据下面的二维码 或者链接进行下载App，体验目前版本的功能。功能大部分意见可以用了。
 
 
-[apk下载地址](https://fir.im/5ary?release_id=5c8f4c4d959d691f66fb1212)
+[apk下载地址](https://fir.im/5ary?release_id=5c94529f959d692c4764d433)
+
 扫二维码也是可以下载的
 
-![downloadapk.png](https://upload-images.jianshu.io/upload_images/3415839-68bcc551840f31d9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![downloadapk.png](https://upload-images.jianshu.io/upload_images/3415839-9b00fe6e8f083aab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
